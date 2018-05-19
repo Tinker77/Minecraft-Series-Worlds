@@ -1,0 +1,9 @@
+libraries/com/eclipsesource/minimal-json/minimal-json-0.9.4/minimal-json-0.9.4.jar
+libraries/com/github/javaparser/javaparser-core-3.2.4/javaparser-core-3.2.4.jar
+libraries/me/nallar/JavaPatcher-1.6/JavaPatcher-1.6.jar
+libraries/me/nallar/whocalled/WhoCalled-1.1/WhoCalled-1.1.jar
+libraries/org/javassist/javassist-3.22.0-CR1-1a955bad6b275515/javassist-3.22.0-CR1.jar
+libraries/org/json/json-20090211/json-20090211.jar
+libraries/org/minimallycorrect/javatransformer/JavaTransformer-1.8-SNAPSHOT-acbc1524a4e22235/JavaTransformer-1.8-SNAPSHOT.jar
+libraries/org/minimallycorrect/mixin/Mixin-1.0-SNAPSHOT-02161784d68a127b/Mixin-1.0-SNAPSHOT.jar
+libraries/org/minimallycorrect/modpatcher/ModPatcher-1.10.2-SNAPSHOT-e6bda5c2fe4a91ac/ModPatcher-1.10.2-SNAPSHOT.jar
