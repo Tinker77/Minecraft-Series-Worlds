@@ -1,0 +1,377 @@
+// class version 50.0 (50)
+// access flags 0x4031
+// signature Ljava/lang/Enum<Lws;>;
+// declaration: ws extends java.lang.Enum<ws>
+public final enum ws extends java/lang/Enum  {
+
+  // compiled from: SourceFile
+
+  // access flags 0x4019
+  public final static enum Lws; a
+
+  // access flags 0x4019
+  public final static enum Lws; b
+
+  // access flags 0x4019
+  public final static enum Lws; c
+
+  // access flags 0x4019
+  public final static enum Lws; d
+
+  // access flags 0x12
+  private final Ljava/lang/String; e
+
+  // access flags 0x12
+  private final Ljava/lang/String; f
+
+  // access flags 0x12
+  private final I g
+
+  // access flags 0x101A
+  private final static synthetic [Lws; h
+
+  // access flags 0x9
+  public static values()[Lws;
+   L0
+    LINENUMBER 9 L0
+    GETSTATIC ws.h : [Lws;
+    INVOKEVIRTUAL [Lws;.clone ()Ljava/lang/Object;
+    CHECKCAST [Lws;
+    ARETURN
+    MAXSTACK = 1
+    MAXLOCALS = 0
+
+  // access flags 0x9
+  public static valueOf(Ljava/lang/String;)Lws;
+   L0
+    LINENUMBER 9 L0
+    LDC Lws;.class
+    ALOAD 0
+    INVOKESTATIC java/lang/Enum.valueOf (Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/Enum;
+    CHECKCAST ws
+    ARETURN
+   L1
+    LOCALVARIABLE ☃ Ljava/lang/String; L0 L1 0
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x2
+  // signature (I)V
+  // declaration: void <init>(int)
+  private <init>(Ljava/lang/String;II)V
+   L0
+    LINENUMBER 21 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    INVOKESPECIAL java/lang/Enum.<init> (Ljava/lang/String;I)V
+   L1
+    LINENUMBER 22 L1
+    ALOAD 0
+    ILOAD 3
+    PUTFIELD ws.g : I
+   L2
+    LINENUMBER 23 L2
+    ALOAD 0
+    ACONST_NULL
+    PUTFIELD ws.e : Ljava/lang/String;
+   L3
+    LINENUMBER 24 L3
+    ALOAD 0
+    LDC ""
+    PUTFIELD ws.f : Ljava/lang/String;
+   L4
+    LINENUMBER 25 L4
+    RETURN
+   L5
+    LOCALVARIABLE this Lws; L0 L5 0
+    LOCALVARIABLE ☃ I L0 L5 3
+    MAXSTACK = 3
+    MAXLOCALS = 4
+
+  // access flags 0x2
+  // signature (ILjava/lang/String;Ljava/lang/String;)V
+  // declaration: void <init>(int, java.lang.String, java.lang.String)
+  private <init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V
+   L0
+    LINENUMBER 27 L0
+    ALOAD 0
+    ALOAD 1
+    ILOAD 2
+    INVOKESPECIAL java/lang/Enum.<init> (Ljava/lang/String;I)V
+   L1
+    LINENUMBER 28 L1
+    ALOAD 0
+    ILOAD 3
+    PUTFIELD ws.g : I
+   L2
+    LINENUMBER 29 L2
+    ALOAD 0
+    NEW java/lang/StringBuilder
+    DUP
+    INVOKESPECIAL java/lang/StringBuilder.<init> ()V
+    LDC "textures/entity/horse/armor/horse_armor_"
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    ALOAD 4
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    LDC ".png"
+    INVOKEVIRTUAL java/lang/StringBuilder.append (Ljava/lang/String;)Ljava/lang/StringBuilder;
+    INVOKEVIRTUAL java/lang/StringBuilder.toString ()Ljava/lang/String;
+    PUTFIELD ws.e : Ljava/lang/String;
+   L3
+    LINENUMBER 30 L3
+    ALOAD 0
+    ALOAD 5
+    PUTFIELD ws.f : Ljava/lang/String;
+   L4
+    LINENUMBER 31 L4
+    RETURN
+   L5
+    LOCALVARIABLE this Lws; L0 L5 0
+    LOCALVARIABLE ☃ I L0 L5 3
+    LOCALVARIABLE ☃ Ljava/lang/String; L0 L5 4
+    LOCALVARIABLE ☃ Ljava/lang/String; L0 L5 5
+    MAXSTACK = 3
+    MAXLOCALS = 6
+
+  // access flags 0x1
+  public a()I
+   L0
+    LINENUMBER 34 L0
+    ALOAD 0
+    INVOKEVIRTUAL ws.ordinal ()I
+    IRETURN
+   L1
+    LOCALVARIABLE this Lws; L0 L1 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public c()I
+   L0
+    LINENUMBER 42 L0
+    ALOAD 0
+    GETFIELD ws.g : I
+    IRETURN
+   L1
+    LOCALVARIABLE this Lws; L0 L1 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x9
+  public static a(I)Lws;
+   L0
+    LINENUMBER 51 L0
+    INVOKESTATIC ws.values ()[Lws;
+    ILOAD 0
+    AALOAD
+    ARETURN
+   L1
+    LOCALVARIABLE ☃ I L0 L1 0
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x9
+  public static a(Ladz;)Lws;
+    @Ljavax/annotation/Nullable;() // parameter 0
+    ALOAD 0
+    INVOKESTATIC p455w0rd/p455w0rdsthings/asm/PHooks.getByItemStack (Lnet/minecraft/item/ItemStack;)Lnet/minecraft/entity/passive/HorseArmorType;
+    ARETURN
+   L0
+    LINENUMBER 55 L0
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L1
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L2
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L3
+   FRAME FULL [] [java/lang/Throwable]
+    ATHROW
+   L4
+    LOCALVARIABLE ☃ Ladz; L0 L4 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x9
+  public static a(Ladx;)Lws;
+    @Ljavax/annotation/Nullable;() // parameter 0
+    ALOAD 0
+    INVOKESTATIC p455w0rd/p455w0rdsthings/asm/PHooks.getByItem (Lnet/minecraft/item/Item;)Lnet/minecraft/entity/passive/HorseArmorType;
+    ARETURN
+   L0
+    LINENUMBER 59 L0
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L1
+    LINENUMBER 60 L1
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L2
+    LINENUMBER 61 L2
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L3
+    LINENUMBER 62 L3
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L4
+    LINENUMBER 63 L4
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L5
+    LINENUMBER 64 L5
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L6
+    LINENUMBER 66 L6
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L7
+    LOCALVARIABLE ☃ Ladx; L0 L7 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x9
+  public static b(Ladx;)Z
+    @Ljavax/annotation/Nullable;() // parameter 0
+    ALOAD 0
+    INSTANCEOF p455w0rd/p455w0rdsthings/api/IHorseArmor
+    IFEQ L0
+    ICONST_1
+    IRETURN
+   L0
+    LINENUMBER 70 L0
+   FRAME FULL [adx] []
+    ALOAD 0
+    INVOKESTATIC ws.a (Ladx;)Lws;
+    GETSTATIC ws.a : Lws;
+    IF_ACMPEQ L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [adx] []
+    ICONST_0
+   L2
+   FRAME FULL [adx] [I]
+    IRETURN
+   L3
+    LOCALVARIABLE ☃ Ladx; L0 L3 0
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x8
+  static <clinit>()V
+   L0
+    LINENUMBER 10 L0
+    NEW ws
+    DUP
+    LDC "NONE"
+    ICONST_0
+    ICONST_0
+    INVOKESPECIAL ws.<init> (Ljava/lang/String;II)V
+    PUTSTATIC ws.a : Lws;
+   L1
+    LINENUMBER 11 L1
+    NEW ws
+    DUP
+    LDC "IRON"
+    ICONST_1
+    ICONST_5
+    LDC "iron"
+    LDC "meo"
+    INVOKESPECIAL ws.<init> (Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V
+    PUTSTATIC ws.b : Lws;
+   L2
+    LINENUMBER 12 L2
+    NEW ws
+    DUP
+    LDC "GOLD"
+    ICONST_2
+    BIPUSH 7
+    LDC "gold"
+    LDC "goo"
+    INVOKESPECIAL ws.<init> (Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V
+    PUTSTATIC ws.c : Lws;
+   L3
+    LINENUMBER 13 L3
+    NEW ws
+    DUP
+    LDC "DIAMOND"
+    ICONST_3
+    BIPUSH 11
+    LDC "diamond"
+    LDC "dio"
+    INVOKESPECIAL ws.<init> (Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V
+    PUTSTATIC ws.d : Lws;
+   L4
+    LINENUMBER 9 L4
+    ICONST_4
+    ANEWARRAY ws
+    DUP
+    ICONST_0
+    GETSTATIC ws.a : Lws;
+    AASTORE
+    DUP
+    ICONST_1
+    GETSTATIC ws.b : Lws;
+    AASTORE
+    DUP
+    ICONST_2
+    GETSTATIC ws.c : Lws;
+    AASTORE
+    DUP
+    ICONST_3
+    GETSTATIC ws.d : Lws;
+    AASTORE
+    PUTSTATIC ws.h : [Lws;
+    RETURN
+    MAXSTACK = 7
+    MAXLOCALS = 0
+}

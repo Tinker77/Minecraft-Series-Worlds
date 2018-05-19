@@ -1,0 +1,223 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  ForgelinPlugin (Forgelin-1.5.1.jar)
+  CoFH Loading Plugin (CoFHCore-1.10.2-4.1.12.17-universal.jar)
+  MalisisCorePlugin (malisiscore-1.10.2-4.4.0.jar)
+  LoadingPlugin (ResourceLoader-MC1.9.4-1.5.1.jar)
+  EnderCorePlugin (EnderCore-1.10.2-0.4.1.66-beta.jar)
+  AppEngLoadingPlugin (appliedenergistics2-rv4-stable-1.jar)
+  PlusTiC (plustic-5.2.1.2.jar)
+  AstralCore (astralsorcery-1.4.5.jar)
+  CCLCorePlugin (CodeChickenLib-1.10.2-2.5.9.283-universal.jar)
+  CTMCorePlugin (CTM-MC1.10.2-0.2.2.24.jar)
+  NEICorePlugin (NotEnoughItems-1.10.2-2.1.3.220-universal.jar)
+  FMLPlugin (InventoryTweaks-1.61-58.jar)
+  IvToolkit (IvToolkit-1.3.3-1.10.jar)
+  weaponlib (mw-1.11.3-beta_mc1.10.2.jar)
+Contact their authors BEFORE contacting forge
+
+// Ooh. Shiny.
+
+Time: 10/6/17 2:11 AM
+Description: Exception in server tick loop
+
+Missing Mods:
+	moofluids : any
+
+net.minecraftforge.fml.common.MissingModsException: Mod ranchablefluidcows (Ranchable Fluid Cows) requires [moofluids]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:536)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:328)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:121)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:431)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Linux (amd64) version 4.9.33-mod-std-ipv6-64
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3606807504 bytes (3439 MB) / 6442450944 bytes (6144 MB) up to 6442450944 bytes (6144 MB)
+	JVM Flags: 17 total; -Xmx6144M -Xms6144M -XX:MetaspaceSize=32m -XX:MaxMetaspaceSize=256m -XX:CompressedClassSpaceSize=64m -XX:+UseCompressedOops -XX:+UseCompressedClassPointers -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AggressiveOpts -XX:MaxGCPauseMillis=100 -XX:TargetSurvivorRatio=90 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.32 Powered by Forge 12.18.3.2422 134 mods loaded, 134 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	U	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	U	FML{8.0.99.99} [Forge Mod Loader] (curse-foolcraft-2479744.jar) 
+	U	Forge{12.18.3.2422} [Minecraft Forge] (curse-foolcraft-2479744.jar) 
+	U	appliedenergistics2-core{rv4-stable-1} [Applied Energistics 2 Core] (minecraft.jar) 
+	U	ivtoolkit{1.3.3-1.10} [IvToolkit] (minecraft.jar) 
+	U	NotEnoughItems{2.1.3.220} [Not Enough Items] (NotEnoughItems-1.10.2-2.1.3.220-universal.jar) 
+	U	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	U	flyringbaublemod{0.2.4_1.10.2-d71eb9e} [AngelRing 2 Bauble] (angelRingToBauble-1.10.2-0.2.4.19+d71eb9e.jar) 
+	U	appleskin{1.0.8} [AppleSkin] (AppleSkin-mc1.10.2-1.0.8.jar) 
+	U	appliedenergistics2{rv4-stable-1} [Applied Energistics 2] (appliedenergistics2-rv4-stable-1.jar) 
+	U	astralsorcery{1.4.5} [Astral Sorcery] (astralsorcery-1.4.5.jar) 
+	U	avaritia{${mod_version}} [Avaritia] (Avaritia-1.10.2-2.2.7-universal.jar) 
+	U	badwithernocookiereloaded{1.10.2-1.10} [Bad Wither No Cookie! Reloaded] (badwithernocookiereloaded-1.10.2-1.10.jar) 
+	U	base{1.10.2-1.4.0} [B.A.S.E] (base-1.10.2-1.4.0.jar) 
+	U	Baubles{1.3.11} [Baubles] (Baubles-1.10.2-1.3.11.jar) 
+	U	bedbugs{@VERSION@} [Bed Bugs] (BedBugs-1.10.2-1.1.6.jar) 
+	U	betterbuilderswands{0.11.1} [Better Builder's Wands] (BetterBuildersWands-1.10.2-0.11.1.220+f8232fe.jar) 
+	U	betterquesting{2.3.234} [Better Questing] (BetterQuesting-2.3.234.jar) 
+	U	BiomesOPlenty{5.0.0.2290} [Biomes O' Plenty] (BiomesOPlenty-1.10.2-5.0.0.2290-universal.jar) 
+	U	blockarmor{2.4.8} [Block Armor] (BlockArmor-1.10.2-2.4.8.jar) 
+	U	Botania{r1.9-341} [Botania] (Botania r1.9-341.jar) 
+	U	Chameleon{1.10.2-2.3.0} [Chameleon] (Chameleon-1.10.2-2.3.0.jar) 
+	U	chancecubes{1.10.2-3.0.1.204} [Chance Cubes] (ChanceCubes-1.10.2-3.0.1.204.jar) 
+	U	ChestTransporter{2.5.18} [Chest Transporter] (ChestTransporter-1.10.2-2.5.18.jar) 
+	U	ChickenChunks{2.2.0.52} [ChickenChunks] (ChickenChunks-1.10.2-2.2.0.52-universal.jar) 
+	U	chickens{4.3.2} [Chickens] (chickens-4.3.2.jar) 
+	U	chisel{MC1.10.2-0.0.13.30} [Chisel] (Chisel-MC1.10.2-0.0.13.30.jar) 
+	U	chiselsandbits{12.15} [Chisels & Bits] (chiselsandbits-12.15.jar) 
+	U	clumps{1.0.5} [Clumps] (Clumps-1.0.5.jar) 
+	U	CodeChickenCore{2.4.1.102} [CodeChicken Core] (CodeChickenCore-1.10.2-2.4.1.102-universal.jar) 
+	U	CodeChickenLib{2.5.9.283} [CodeChicken Lib] (CodeChickenLib-1.10.2-2.5.9.283-universal.jar) 
+	U	ccl-entityhook{1.0} [ccl-entityhook] (CodeChickenLib-1.10.2-2.5.9.283-universal.jar) 
+	U	cofhcore{4.1.12} [CoFH Core] (CoFHCore-1.10.2-4.1.12.17-universal.jar) 
+	U	colossalchests{1.6.0} [Colossal Chests] (ColossalChests-1.10.2-1.6.0.jar) 
+	U	concrete{1.2} [1.12 Concrete] (concreteMod-1.2.jar) 
+	U	cookingforblockheads{4.2.45} [Cooking for Blockheads] (CookingForBlockheads_1.10.2-4.2.45.jar) 
+	U	craftingtweaks{6.1.16} [Crafting Tweaks] (CraftingTweaks_1.10.2-6.1.16.jar) 
+	U	MineTweaker3{3.0.26} [MineTweaker 3] (CraftTweaker-1.10.2-3.0.26.jar) 
+	U	crafttweakerjei{1.0.1} [CraftTweaker JEI Support] (CraftTweaker-1.10.2-3.0.26.jar) 
+	U	cropdusting{0.6} [CropDusting] (CropDusting-0.6-[1.9.4-1.10-1.10.2].jar) 
+	U	modcurrency{1.10.2-1.2.0} [Good Ol' Currency Mod] (Currency-1.10.2-1.2.0.jar) 
+	U	cyclopscore{0.10.9} [Cyclops Core] (CyclopsCore-1.9.4-0.10.9.jar) 
+	U	dailies{1.10.2-6} [Bailey's Dailies] (dailies-1.10.2-6.jar) 
+	U	dbrownutil{1.1} [Dbrown55 Util Mod] (dbrownutil-1.1.jar) 
+	U	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.10.2.jar) 
+	U	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.10.2.jar) 
+	U	elevatorid{1.3.0} [Elevator Mod] (ElevatorMod[V.1.3.0][MC.1.10.2].jar) 
+	U	endercore{1.10.2-0.4.1.66-beta} [EnderCore] (EnderCore-1.10.2-0.4.1.66-beta.jar) 
+	U	EnderIO{1.10.2-3.1.193} [Ender IO] (EnderIO-1.10.2-3.1.193.jar) 
+	U	EnderStorage{2.2.1.106} [EnderStorage] (EnderStorage-1.10.2-2.2.1.106-universal.jar) 
+	U	EnderZoo{1.10-1.2.3.44} [Ender Zoo] (EnderZoo-1.10-1.2.3.44.jar) 
+	U	extrautils2{1.0} [Extra Utilities 2] (extrautils2-1.10.2-1.6.1.jar) 
+	U	fakeblocks{1.0.0} [FakeBlocks] (FakeBlocks 1.0.0.jar) 
+	U	FastLeaveDecay{1.2.3} [Fast Leave Decay] (FastLeaveDecay-MC1.10.2-1.2.3.jar) 
+	U	flatcoloredblocks{mc1.10-v4.4} [Flat Colored Blocks] (flatcoloredblocks-mc1.10-v4.4.jar) 
+	U	foamfix{@VERSION@} [FoamFix] (foamfix-0.7.2-law.jar) 
+	U	forgelin{1.5.1} [Shadowfacts' Forgelin] (Forgelin-1.5.1.jar) 
+	U	ftbl{0.0.0} [FTBLib] (FTBLib-1.1x-3.6.5.jar) 
+	U	ftbu{0.0.0} [FTBUtilities] (FTBUtilities-1.1x-3.6.5.jar) 
+	U	hatchery{0.3.20} [Hatchery] (hatchery-1.10.2-0.3.20.jar) 
+	U	hats{6.0.0} [Hats] (Hats-1.10.2-6.0.0.jar) 
+	U	hermitron{0.2.18} [Hermitron] (hermitron-1.10.2-0.2.18.jar) 
+	U	Waila{1.8.17-B31_1.10.2} [Waila] (Hwyla-1.8.17-B31_1.10.2.jar) 
+	U	ichunutil{6.5.0} [iChunUtil] (iChunUtil-1.10.2-6.5.0.jar) 
+	U	InventoryPets{1.4.9.6} [Inventory Pets] (inventorypets-1.10-1.4.9.6.jar) 
+	U	inventorytweaks{1.61-58-a1fd884} [Inventory Tweaks] (InventoryTweaks-1.61-58.jar) 
+	U	ironbackpacks{1.10.2-2.2.31} [Iron Backpacks] (IronBackpacks-1.10.2-2.2.31.jar) 
+	U	ironchest{1.10.2-7.0.15.804} [Iron Chest] (ironchest-1.10.2-7.0.15.804.jar) 
+	U	iskalliumreactors{0.3.9-beta} [Iskallium Reactors] (iskalliumreactors-1.10.2-0.3.9-beta.jar) 
+	U	JEI{3.14.7.420} [Just Enough Items] (jei_1.10.2-3.14.7.420.jar) 
+	U	journeymap{1.10.2-5.5.0b4} [JourneyMap] (journeymap-1.10.2-5.5.0b4.jar) 
+	U	lootbags{2.3.9} [Loot Bags] (LootBags-1.10.2-2.3.9.jar) 
+	U	loottweaker{0.0.6.3} [LootTweaker] (LootTweaker-1.10.2-0.0.6.3.jar) 
+	U	malisiscore{1.10.2-4.4.0} [MalisisCore] (malisiscore-1.10.2-4.4.0.jar) 
+	U	malisisdoors{1.10.2-5.2.0} [MalisisDoors] (malisisdoors-1.10.2-5.2.0.jar) 
+	U	mantle{1.10.2-1.1.5.205} [Mantle] (Mantle-1.10.2-1.1.5.jar) 
+	U	mcmultipart{1.4.0} [MCMultiPart] (MCMultiPart-1.4.0-universal.jar) 
+	U	minefactoryreloaded{2.9.0B1} [MineFactory Reloaded] (MineFactoryReloaded-[1.10.2]2.9.0B1-229.jar) 
+	U	MineFactoryReloaded|CompatVanilla{2.9.0B1} [MFR Compat: Vanilla] (MineFactoryReloaded-[1.10.2]2.9.0B1-229.jar) 
+	U	mtrm{1.2.1.26} [MineTweakerRecipeMaker] (MineTweakerRecipeMaker-1.10.2-1.2.1.26.jar) 
+	U	moarsigns{4.2.3.9} [MoarSigns] (MoarSigns-1.10.2-4.2.3.9.jar) 
+	U	mob_grinding_utils{0.1.8.22} [mob_grinding_utils] (MobGrindingUtils-0.1.8.22.jar) 
+	U	modtweaker{2.0.13} [Mod Tweaker] (ModTweaker2-2.0.13.jar) 
+	U	morechickens{1.1.6} [More Chickens] (MoreChickens-1.10.2-1.1.6.jar) 
+	U	moreloottables{0.2.1} [More Loot Tables] (moreloottables-1.10.2-0.2.1.jar) 
+	U	Morpheus{1.10.2-3.1.13} [Morpheus] (Morpheus-1.10.2-3.1.13.jar) 
+	U	mtlib{@VERSION@} [MTLib] (MTLib-1.0.3.jar) 
+	U	mw{1.11.3-beta} [Modern Warfare] (mw-1.11.3-beta_mc1.10.2.jar) 
+	U	mysticalagriculture{1.5.8} [Mystical Agriculture] (mysticalagriculture[1.10.2]-1.5.8.jar) 
+	U	mysticalmfrcompat{1.0.0} [Mystical MFR Compat] (mysticalmfrcompat[1.10.2]-1.0.0a.jar) 
+	U	natura{1.10.2-4.1.0.80} [Natura] (natura-1.10.2-4.1.0.80.jar) 
+	U	nethercore{1.10.2-2.0.3} [Nether Core] (nethercore-1.10.2-2.0.3.jar) 
+	U	recipehandler{0.6} [NoMoreRecipeConflict] (NoMoreRecipeConflict-0.6(1.10.2).jar) 
+	U	omlib{3.0.0-127} [OMLib] (omlib-1.10.2-3.0.0-127.jar) 
+	U	openmodularturrets{3.0.0-214} [Open Modular Turrets] (openmodularturrets-1.10.2-3.0.0-214.jar) 
+	U	harvestcraft{1.10.2j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.10.2j.jar) 
+	U	plustic{5.2.1.2} [PlusTiC] (plustic-5.2.1.2.jar) 
+	U	portalgun{6.0.1} [PortalGun] (PortalGun-1.10.2-6.0.1.jar) 
+	U	questbook{2.1.0-1.10} [Better Questing Quest Book] (questbook-2.1.0-1.10.jar) 
+	U	railcraft{10.2.0} [Railcraft] (Railcraft_1.10.2-10.2.0.jar) 
+	U	ranchablefluidcows{1.10.2-1.2.0B1} [Ranchable Fluid Cows] (RanchableFluidCows-1.10.2-1.2.0B1.jar) 
+	U	reccomplex{1.4.5-1.10} [Recurrent Complex] (RecurrentComplex-1.4.5-1.10.jar) 
+	U	bq_rf{2.3.26} [RF Expansion] (RFExpansion-2.3.26.jar) 
+	U	rftools{6.13} [RFTools] (rftools-1.1x-6.13.jar) 
+	U	roguelike{1.5.9} [Roguelike Dungeons] (RoguelikeDungeons-1.10.2-1.5.9.jar) 
+	U	shadowmc{3.6.1} [ShadowMC] (ShadowMC-1.10.2-3.6.1.jar) 
+	U	SimpleLabels{0.0.1} [SimpleLabels] (simplelabels-1-10.2-0.0.3.jar) 
+	U	simplyconveyors{3.0.6} [Simply Conveyors & More] (SimplyConveyors-3.1.1d.jar) 
+	U	SleepingBag{1.4.0} [Sleeping Bag] (SleepingBag-1.10.2-1.4.0.jar) 
+	U	bq_standard{2.3.131} [Standard Expansion] (StandardExpansion-2.3.131.jar) 
+	U	statues{0.7.3.2} [Statues mod] (statues-1.10.2-0.7.3.2.jar) 
+	U	StorageDrawers{1.10.2-3.7.10} [Storage Drawers] (StorageDrawers-1.10.2-3.7.10.jar) 
+	U	storagedrawersextra{1.10-1.1.0} [Storage Drawers Extras] (StorageDrawersExtras-1.10-1.1.0.jar) 
+	U	subcommonlib{1.1.3.0} [Subaraki's Common Library] (sublib-1.10.2-1.1.3.0.jar) 
+	U	tconstruct{1.10.2-2.6.5.10} [Tinkers' Construct] (TConstruct-1.10.2-2.6.5.jar) 
+	U	beneath{1.2.0} [The Beneath] (The Beneath-1.10.2-1.2.0.jar) 
+	U	thermaldynamics{2.0.11} [Thermal Dynamics] (ThermalDynamics-1.10.2-2.0.11.17-universal.jar) 
+	U	thermalexpansion{5.1.10} [Thermal Expansion] (ThermalExpansion-1.10.2-5.1.10.25-universal.jar) 
+	U	thermalfoundation{2.1.5} [Thermal Foundation] (ThermalFoundation-1.10.2-2.1.5.12-universal.jar) 
+	U	tinkertoolleveling{1.10.2-1.0.1.DEV.f5def58} [Tinkers Tool Leveling] (TinkerToolLeveling-1.10.2-1.0.1.jar) 
+	U	tp{1.2.3} [Tiny Progressions] (tinyprogressions-1.10.2-1.2.3a.jar) 
+	U	tombmanygraves{1.10.2-2.1.16} [Tomb Many Graves] (TombManyGraves-1.10.2-2.1.16.jar) 
+	U	torchmaster{1.4.1.34} [TorchMaster] (torchmaster_1.10.2-1.4.1.34.jar) 
+	U	Translocator{2.1.4.55} [Translocator] (Translocators-1.10.2-2.1.4.55-universal.jar) 
+	U	usefulnullifiers{1.3.5} [Useful Nullifiers] (usefulnullifiers-1.3.5.jar) 
+	U	VeinMiner{0.38.1_1.9-5587fc8} [Vein Miner] (VeinMiner-1.9-0.38.1.618+5587fc8.jar) 
+	U	VeinMinerModSupport{0.38.1_1.9-5587fc8} [Mod Support] (VeinMiner-1.9-0.38.1.618+5587fc8.jar) 
+	U	vc{5.0.6} [ViesCraft] (ViesCraft-1.10.X-5.0.6.jar) 
+	U	wailafeatures{0.3.1.13} [WAILA-features] (WAILA-features-1.10.2-0.3.1.13.jar) 
+	U	icse{1.1.0.0} [I Can See Everything] (Wawla-1.10.2-2.3.2.215.jar) 
+	U	wawla{2.3.2.215} [What Are We Looking At] (Wawla-1.10.2-2.3.2.215.jar) 
+	U	waystones{2.0.13} [Waystones] (Waystones_1.10.2-2.0.13.jar) 
+	U	weaponcaseloot{4.0.3} [WeaponCaseLoot] (weaponcaseloot-1.10.2-4.0.3.jar) 
+	U	Woot{1.10.2-1.4.1} [Woot] (woot-1.10.2-1.4.1.jar) 
+	Loaded coremods (and transformers): 
+ForgelinPlugin (Forgelin-1.5.1.jar)
+  
+CoFH Loading Plugin (CoFHCore-1.10.2-4.1.12.17-universal.jar)
+  cofh.asm.CoFHClassTransformer
+  cofh.asm.repack.codechicken.lib.asm.ClassHierarchyManager
+MalisisCorePlugin (malisiscore-1.10.2-4.4.0.jar)
+  net.malisis.core.util.chunkcollision.ChunkCollisionTransformer
+  net.malisis.core.util.chunkblock.ChunkBlockTransformer
+  net.malisis.core.renderer.transformer.MalisisRendererTransformer
+  net.malisis.core.renderer.icon.asm.TextureMapTransformer
+  net.malisis.core.util.clientnotif.ClientNotifTransformer
+LoadingPlugin (ResourceLoader-MC1.9.4-1.5.1.jar)
+  lumien.resourceloader.asm.ClassTransformer
+EnderCorePlugin (EnderCore-1.10.2-0.4.1.66-beta.jar)
+  com.enderio.core.common.transform.EnderCoreTransformer
+AppEngLoadingPlugin (appliedenergistics2-rv4-stable-1.jar)
+  appeng.coremod.transformer.IntegrationTransformer
+PlusTiC (plustic-5.2.1.2.jar)
+  landmaster.plustic.asm.Transform
+AstralCore (astralsorcery-1.4.5.jar)
+  
+CCLCorePlugin (CodeChickenLib-1.10.2-2.5.9.283-universal.jar)
+  codechicken.lib.asm.ClassHeirachyManager
+  codechicken.lib.asm.CCL_ASMTransformer
+CTMCorePlugin (CTM-MC1.10.2-0.2.2.24.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+NEICorePlugin (NotEnoughItems-1.10.2-2.1.3.220-universal.jar)
+  codechicken.nei.asm.NEITransformer
+FMLPlugin (InventoryTweaks-1.61-58.jar)
+  invtweaks.forge.asm.ContainerTransformer
+IvToolkit (IvToolkit-1.3.3-1.10.jar)
+  
+weaponlib (mw-1.11.3-beta_mc1.10.2.jar)
+  com.vicmatskiv.weaponlib.core.WeaponlibClassTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

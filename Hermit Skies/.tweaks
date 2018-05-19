@@ -1,0 +1,31 @@
+# This file allows you to toggle various tweaks in the server environment.
+#
+# THESE SETTINGS ARE FOR ADVANCED USERS ONLY. BE CAREFUL!
+#
+
+## Java Garbage Collection Logging
+#
+# Possible values: true, false
+# Default: false
+#
+# Toggles logging of GC information to a log file in your server's root directory.
+# This can be helpful when you're trying to isolate the source of lag and/or
+# memory-related performance issues. Check "gc.log" after enabling and restarting
+# your server.
+#
+# i.e. -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:gc.log
+#
+gc-logging=false
+
+## Java Garbage Collection Settings
+#
+# Possible values: cms, g1, optimal
+# Default: optimal
+#
+# 'cms' enables -XX:+UseConcMarkSweepGC
+# 'g1' enables -XX:+UseG1GC with max GC pause of 50ms
+#
+# 'optimal' enables Aikar's recommended GC settings
+# https://forums.spongepowered.org/t/13239
+#
+gc-type=optimal

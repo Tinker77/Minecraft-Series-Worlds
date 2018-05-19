@@ -1,0 +1,1304 @@
+[POSTINITIALIZATION][SERVER][ERROR] system: JEI is already defined in that package
+[AVAILABLE][SERVER][INFO] MineTweaker: Building registry
+[AVAILABLE][SERVER][INFO] MineTweaker: Sucessfully built item registry
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tooltips
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command randomthings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command materials
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command modifiers
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command tconstruct
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselGroups
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command chiselVariations
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command lexiconCategories
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command lexiconPages
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command botaniaBrews
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command lexiconKnowledgeTypes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command botaniaOrechid
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding minetweaker command botania
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: botania failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding command minetweaker
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Infinity Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Infinity Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Infinity Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Infinity Breastplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Sword of the Cosmos
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Infinity Catalyst
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing Xtreme Crafting Recipe for Ultimate Stew
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Draconic Staff of Power
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Draconic Helm
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Draconic Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Draconic Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Draconic Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Philosopher's Stone
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Transmutation Table
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Transmutation Tablet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Infinity Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Infinity Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Infinity Breastplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Infinity Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Sword of the Cosmos
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Infinity Catalyst
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Xtreme Crafting Recipe for Ultimate Stew
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Material wasn't null
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <liquid:yellorium> * 288
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_helmet>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_chestplate>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_leggings>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_boots>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelHelmet>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelChestplate>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelLeggings>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelBoots>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelPickaxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelAxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelShovel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelSword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelPaxel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelHoe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeHelmet>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeChestplate>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeLeggings>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeBoots>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzePickaxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeAxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeShovel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeSword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzePaxel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeHoe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumHelmet>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumChestplate>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumLeggings>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumBoots>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumPickaxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumAxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumShovel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumSword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumPaxel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumHoe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianHelmet>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianChestplate>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianLeggings>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianBoots>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianPickaxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianAxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianShovel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianSword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianPaxel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianHoe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <exnihiloadscensio:itemOreYellorium:1>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <exnihiloadscensio:itemOreYellorium:2>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:ingotmetals>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <exnihiloadscensio:itemOreYellorium:3>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:blockmetals>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:brore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:dustmetals>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <extrautils2:compressedcobblestone>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <extrautils2:compressedsand>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:glowstone>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:glowstone_dust>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:redstone_block>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:redstone>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <p455w0rdsthings:friender_pearl>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:ender_pearl>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <extrautils2:enderlilly>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_sword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_pickaxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_shovel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_axe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hammer_iron>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.sickle_iron>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_sword>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_pickaxe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_shovel>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_axe>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hammer_gold>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.sickle_gold>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hoe_invar>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.pickaxe_invar>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.shovel_invar>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.axe_invar>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hammer_invar>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.sickle_invar>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <avaritia:resource:6>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <bigreactors:ingotmetals>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <minecraft:ender_pearl>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:soulium_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:base_essence_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:inferium_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:prudentium_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:intermedium_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:superium_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <mysticalagriculture:supremium_ingot>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <avaritia:block_resource:1>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage_alloy>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage_alloy:3>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <bigreactors:blockmetals>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:1>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:2>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:6>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:5>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage_alloy:1>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <tconstruct:metal>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <minecraft:redstone_block>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 TConstruct Casting Recipe(s) for <minecraft:glowstone>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of manyullyn to 5000 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of enderium_plustic to 10000 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of infinity_avaritia_plustic to 20000 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of manyullyn to 500 for handle
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of enderium_plustic to 5000 for handle
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of infinity_avaritia_plustic to 20000 for handle
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting MiningSpeed of electrum to 24.0 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting MiningSpeed of alumite to 48.0 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting MiningSpeed of infinity_avaritia_plustic to 200.0 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting Attack of knightslime to 16.0 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting Attack of signalum_plustic to 39.0 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting Attack of infinity_avaritia_plustic to 200.0 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of enderium_plustic to 15 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Setting durability of infinity_avaritia_plustic to 15 for head
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <plustic:osmiumdust>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_iridium_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_silver_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_platinum_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_aluminum_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_osmium_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_lead_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_tin_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_nickel_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <nethermetals:nether_copper_ore>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <exnihiloadscensio:blockDust>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding furnace recipe for <extrautils2:compressedsand>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Seared Tank to ore dictionary entry LavaTank
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Seared Gauge to ore dictionary entry LavaTank
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Seared Window to ore dictionary entry LavaTank
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Alchemical Bag (Invalid metadata set) to ore dictionary entry bagAlchemical
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Osmium Ore to ore dictionary entry orenetherOsmium
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Lead Ore to ore dictionary entry orenetherLead
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Tin Ore to ore dictionary entry orenetherTin
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Nickel Ore to ore dictionary entry orenetherNickel
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Copper Ore to ore dictionary entry orenetherCopper
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Aluminum Ore to ore dictionary entry orenetherAluminum
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Platinum Ore to ore dictionary entry orenetherPlatinum
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Silver Ore to ore dictionary entry orenetherSilver
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Iridium Ore to ore dictionary entry orenetherIridium
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Coal Ore to ore dictionary entry orenetherCoal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Diamond Ore to ore dictionary entry orenetherDiamond
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Gold Ore to ore dictionary entry orenetherGold
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Emerald Ore to ore dictionary entry orenetherEmerald
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Iron Ore to ore dictionary entry orenetherIron
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Lapis Ore to ore dictionary entry orenetherLapis
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Nether Redstone Ore to ore dictionary entry orenetherRedstone
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Sky Stone Dust to ore dictionary entry itemSilicon
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Industrial Grade Graphite Ore to ore dictionary entry oreGraphite
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Helmet to ore dictionary entry armorSupreme_helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Chestplate to ore dictionary entry armorSupreme_chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Leggings to ore dictionary entry armorSupreme_leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Supremium Boots to ore dictionary entry armorSupreme_boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Vibrant Jetpack (Armored) to ore dictionary entry packArmoredJet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Vibrant Capacitor Pack (Armored) to ore dictionary entry packCapacitor
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding Dark Plate to ore dictionary entry plateDark
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:cobblestone> * 18
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:coal:1> * 3
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_0> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_1> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_2> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_3> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_4> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_5> * 5
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <minecraft:diamond> * 3
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <minecraft:dye:4> * 3
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <minecraft:dye:4> * 8
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <minecraft:lapis_block>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <minecraft:blaze_rod>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <thermalfoundation:material:2048>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <thermalfoundation:material:2050>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding 1 Compressor Recipe(s) for <thermalfoundation:material:2052>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 2 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 2 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 7 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 7 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 7 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 7 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 20 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 4 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 3 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 0 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 4 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 2 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 1 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 2 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Removing 2 recipes
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Ceramic Dye (White)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Fluix Pearl
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Silver Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Lead Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Nickel Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Tin Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Copper Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Osmium Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Draconium Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Yellorium Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Platinum Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Mithril Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Aluminum Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iridium Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Gold Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iron Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Ardite Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Cobalt Ore Piece
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Enchanter
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Ludicrite Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Ludicrite Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Zenith Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Controller (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Control Rod (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Fuel Rod (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Better Questing
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reinforced Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Boiler Casing
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Bag Opener
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Compressor
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Machine Framework
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for item.dank_null.name
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for item.dank_null.name
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for item.dank_null.name
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for item.dank_null.name
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for item.dank_null.name
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for item.dank_null.name
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for The Last Cable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Second Cable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for First Cable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Mirror
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Growth Crystal Tier 3
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Growth Crystal Tier 2
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Golden Apple
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Insanium Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Mob Grinder
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Mob Grinder
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for End Rod
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Low Covalence Dust
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Medium Covalence Dust
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for High Covalence Dust
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Master Infusion Crystal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Endest Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reinforced Obsidian
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Reactor Casing Core (Legacy)
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Machine Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Wooden Wrench
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Metallurgic Infuser
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Deep Dark Portal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Klein Star Omega
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Klein Star Sphere
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Klein Star Vier
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Klein Star Drei
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Klein Star Zwei
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for ME Controller
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Alchemical Chest
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Imaginary Time Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Starry Emerald
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Gold Casing
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Witherproof Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Witherproof Glass
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Resonating Redstone Crystal
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Carbon Sabatons
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Carbon Greaves
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Carbon Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Carbon Helm
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Plate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Helm
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Matter Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Matter Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Matter Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Matter Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Dark Soularium JetPlate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Quantum Tank
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Vast Storage Unit
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Quantum Storage Unit
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Mega Torch
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Frosty Generator
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Death Generator
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Heated Redstone Generator
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Magmatic Generator
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Culinary Generator
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Ultimate Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Furnace
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Supremium Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Superium Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Intermedium Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Prudentium Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Inferium Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Base Essence Ingot
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iridium Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Aluminum Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Yellorium Block
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Watering Can
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Terrasteel Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Terrasteel Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Terrasteel Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Terrasteel Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Elementium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Elementium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Elementium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Elementium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Obsidian Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Obsidian Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Obsidian Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Obsidian Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Steel Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Steel Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Steel Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Steel Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Osmium Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Osmium Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Osmium Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Osmium Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Glowstone Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Glowstone Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Glowstone Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Glowstone Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Lapis Lazuli Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Lapis Lazuli Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Lapis Lazuli Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Lapis Lazuli Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Diamond Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Diamond Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Diamond Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Diamond Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iron Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iron Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iron Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Iron Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Golden Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Golden Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Golden Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Golden Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Chain Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Chain Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Chain Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Chain Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Stone Boots
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Stone Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Stone Chestplate
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Stone Helmet
+[SERVER_ABOUT_TO_START][SERVER][INFO] Adding recipe for Gem Leggings
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_ABOUT_TO_START][SERVER][INFO] 
+[SERVER_STOPPING][SERVER][INFO] Server stopping, Scripts are being rolled back!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: botania failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: materials failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: randomthings failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: entities failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Gem Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Stone Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Stone Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Stone Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Stone Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Chain Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Chain Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Chain Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Chain Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Golden Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Golden Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Golden Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Golden Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iron Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iron Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iron Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iron Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Diamond Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Diamond Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Diamond Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Diamond Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Lapis Lazuli Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Lapis Lazuli Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Lapis Lazuli Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Lapis Lazuli Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Glowstone Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Glowstone Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Glowstone Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Glowstone Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Osmium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Osmium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Osmium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Osmium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Steel Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Steel Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Steel Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Steel Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Obsidian Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Obsidian Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Obsidian Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Obsidian Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Elementium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Elementium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Elementium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Elementium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Terrasteel Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Terrasteel Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Terrasteel Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Terrasteel Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Yellorium Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Aluminum Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iridium Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Base Essence Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Ultimate Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Culinary Generator
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Magmatic Generator
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Heated Redstone Generator
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Death Generator
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Frosty Generator
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Mega Torch
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Quantum Storage Unit
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Vast Storage Unit
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Quantum Tank
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Soularium JetPlate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Matter Helmet
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Matter Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Matter Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Matter Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Helm
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Plate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Leggings
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Dark Boots
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Carbon Helm
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Carbon Chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Carbon Greaves
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Carbon Sabatons
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Resonating Redstone Crystal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Witherproof Glass
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Witherproof Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Gold Casing
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Starry Emerald
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Imaginary Time Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Alchemical Chest
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for ME Controller
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Klein Star Zwei
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Klein Star Drei
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Klein Star Vier
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Klein Star Sphere
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Klein Star Omega
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Deep Dark Portal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Metallurgic Infuser
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Wooden Wrench
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Machine Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Casing Core (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reinforced Obsidian
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Endest Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Master Infusion Crystal
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for High Covalence Dust
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Medium Covalence Dust
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Low Covalence Dust
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for End Rod
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Mob Grinder
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Mob Grinder
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Insanium Ingot
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Golden Apple
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Growth Crystal Tier 2
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Growth Crystal Tier 3
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Mirror
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for First Cable
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Second Cable
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for The Last Cable
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for item.dank_null.name
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for item.dank_null.name
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for item.dank_null.name
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for item.dank_null.name
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for item.dank_null.name
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for item.dank_null.name
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Machine Framework
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Compressor
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Bag Opener
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Boiler Casing
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Inferium Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Prudentium Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Intermedium Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reinforced Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Superium Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Supremium Watering Can
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Better Questing
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Fuel Rod (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Control Rod (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Reactor Controller (Legacy)
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Zenith Furnace
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Ludicrite Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Ludicrite Block
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Enchanter
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Cobalt Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Ardite Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iron Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Gold Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Iridium Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Aluminum Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Mithril Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Platinum Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Yellorium Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Draconium Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Osmium Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Copper Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Tin Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Nickel Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Lead Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Silver Ore Piece
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Fluix Pearl
+[SERVER_STOPPING][SERVER][INFO] Removing recipe for Ceramic Dye (White)
+[SERVER_STOPPING][SERVER][INFO] Restoring 2 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 2 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 2 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 4 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 4 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 20 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 7 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 7 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 7 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 7 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 2 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 0 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 3 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 recipes
+[SERVER_STOPPING][SERVER][INFO] Restoring 2 recipes
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <thermalfoundation:material:2052>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <thermalfoundation:material:2050>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <thermalfoundation:material:2048>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:blaze_rod>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:lapis_block>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:dye:4> * 8
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:dye:4> * 3
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <minecraft:diamond> * 3
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 Compressor Recipe(s) for <p455w0rdsthings:raw_carbon>
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_5> * 5
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_4> * 5
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_3> * 5
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_2> * 5
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_1> * 5
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <p455w0rdsthings:dank_null_panel_0> * 5
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <minecraft:coal:1> * 3
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 Compressor Recipe(s) for <minecraft:cobblestone> * 18
+[SERVER_STOPPING][SERVER][INFO] Removing Dark Plate from ore dictionary entry plateDark
+[SERVER_STOPPING][SERVER][INFO] Removing Vibrant Capacitor Pack (Armored) from ore dictionary entry packCapacitor
+[SERVER_STOPPING][SERVER][INFO] Removing Vibrant Jetpack (Armored) from ore dictionary entry packArmoredJet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Boots from ore dictionary entry armorSupreme_boots
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Leggings from ore dictionary entry armorSupreme_leggings
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Chestplate from ore dictionary entry armorSupreme_chestplate
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Supremium Helmet from ore dictionary entry armorSupreme_helmet
+[SERVER_STOPPING][SERVER][INFO] Removing Industrial Grade Graphite Ore from ore dictionary entry oreGraphite
+[SERVER_STOPPING][SERVER][INFO] Removing Sky Stone Dust from ore dictionary entry itemSilicon
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Redstone Ore from ore dictionary entry orenetherRedstone
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Lapis Ore from ore dictionary entry orenetherLapis
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Iron Ore from ore dictionary entry orenetherIron
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Emerald Ore from ore dictionary entry orenetherEmerald
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Gold Ore from ore dictionary entry orenetherGold
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Diamond Ore from ore dictionary entry orenetherDiamond
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Coal Ore from ore dictionary entry orenetherCoal
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Iridium Ore from ore dictionary entry orenetherIridium
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Silver Ore from ore dictionary entry orenetherSilver
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Platinum Ore from ore dictionary entry orenetherPlatinum
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Aluminum Ore from ore dictionary entry orenetherAluminum
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Copper Ore from ore dictionary entry orenetherCopper
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Nickel Ore from ore dictionary entry orenetherNickel
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Tin Ore from ore dictionary entry orenetherTin
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Lead Ore from ore dictionary entry orenetherLead
+[SERVER_STOPPING][SERVER][INFO] Removing Nether Osmium Ore from ore dictionary entry orenetherOsmium
+[SERVER_STOPPING][SERVER][INFO] Removing Alchemical Bag (Invalid metadata set) from ore dictionary entry bagAlchemical
+[SERVER_STOPPING][SERVER][INFO] Removing Seared Window from ore dictionary entry LavaTank
+[SERVER_STOPPING][SERVER][INFO] Removing Seared Gauge from ore dictionary entry LavaTank
+[SERVER_STOPPING][SERVER][INFO] Removing Seared Tank from ore dictionary entry LavaTank
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <extrautils2:compressedsand>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <exnihiloadscensio:blockDust>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_copper_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_nickel_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_tin_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_lead_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_osmium_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_aluminum_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_platinum_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_silver_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <nethermetals:nether_iridium_ore>
+[SERVER_STOPPING][SERVER][INFO] Removing furnace recipe for <plustic:osmiumdust>
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of infinity_avaritia_plustic to 10 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of enderium_plustic to 4 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting Attack of infinity_avaritia_plustic to 40.0 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting Attack of signalum_plustic to 5.2 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting Attack of knightslime to 5.1 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting MiningSpeed of infinity_avaritia_plustic to 8.5 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting MiningSpeed of alumite to 6.8 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting MiningSpeed of electrum to 12.0 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of infinity_avaritia_plustic to 20000 for handle
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of enderium_plustic to 10000 for handle
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of manyullyn to 5000 for handle
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of infinity_avaritia_plustic to 7000 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of enderium_plustic to 800 for head
+[SERVER_STOPPING][SERVER][INFO] Reverting durability of manyullyn to 820 for head
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <minecraft:glowstone>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <minecraft:redstone_block>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <tconstruct:metal>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage_alloy:1>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:5>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:6>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:2>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage:1>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <bigreactors:blockmetals>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage_alloy:3>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <thermalfoundation:storage_alloy>
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 TConstruct Casting Recipe(s) for <avaritia:block_resource:1>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:supremium_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:superium_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:intermedium_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:prudentium_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:inferium_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:base_essence_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <mysticalagriculture:soulium_ingot>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <minecraft:ender_pearl>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Casting Recipe(s) for <bigreactors:ingotmetals>
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 TConstruct Casting Recipe(s) for <avaritia:resource:6>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.sickle_invar>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hammer_invar>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.axe_invar>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.shovel_invar>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.pickaxe_invar>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hoe_invar>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.sickle_gold>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hammer_gold>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_axe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_shovel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_pickaxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:golden_sword>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.sickle_iron>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <thermalfoundation:tool.hammer_iron>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_axe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_shovel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_pickaxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:iron_sword>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <extrautils2:enderlilly>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:ender_pearl>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <p455w0rdsthings:friender_pearl>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:redstone>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:redstone_block>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:glowstone_dust>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:glowstone>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <extrautils2:compressedsand>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <extrautils2:compressedcobblestone>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:dustmetals>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:brore>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:blockmetals>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <exnihiloadscensio:itemOreYellorium:3>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <bigreactors:ingotmetals>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <exnihiloadscensio:itemOreYellorium:2>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <exnihiloadscensio:itemOreYellorium:1>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianHoe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianPaxel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianSword>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianShovel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianAxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianPickaxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianBoots>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianLeggings>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianChestplate>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:ObsidianHelmet>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumHoe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumPaxel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumSword>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumShovel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumAxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumPickaxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumBoots>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumLeggings>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumChestplate>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:OsmiumHelmet>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeHoe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzePaxel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeSword>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeShovel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeAxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzePickaxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeBoots>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeLeggings>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeChestplate>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:BronzeHelmet>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelHoe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelPaxel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelSword>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelShovel>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelAxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelPickaxe>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelBoots>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelLeggings>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelChestplate>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <mekanismtools:SteelHelmet>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_boots>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_leggings>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_chestplate>
+[SERVER_STOPPING][SERVER][INFO] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <minecraft:chainmail_helmet>
+[SERVER_STOPPING][SERVER][INFO] Restoring 1 TConstruct Smeltery - Melting Recipe(s) for <liquid:yellorium> * 288
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Ultimate Stew
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Infinity Catalyst
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Sword of the Cosmos
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Infinity Helmet
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Infinity Breastplate
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Infinity Leggings
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Infinity Boots
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Transmutation Tablet
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Transmutation Table
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Philosopher's Stone
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Draconic Boots
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Draconic Leggings
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Draconic Chestplate
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Draconic Helm
+[SERVER_STOPPING][SERVER][INFO] Un-adding Xtreme Crafting Recipe for Draconic Staff of Power
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Ultimate Stew
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Infinity Catalyst
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Sword of the Cosmos
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Infinity Breastplate
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Infinity Helmet
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Infinity Leggings
+[SERVER_STOPPING][SERVER][INFO] Un-removing Xtreme Crafting Recipe for Infinity Boots
+[SERVER_STOPPING][SERVER][INFO] tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
