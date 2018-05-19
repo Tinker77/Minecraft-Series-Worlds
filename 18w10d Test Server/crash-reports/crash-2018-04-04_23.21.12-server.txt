@@ -1,0 +1,103 @@
+---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 4/4/18 11:21 PM
+Description: Ticking entity
+
+java.lang.ClassCastException: afq cannot be cast to afm
+	at ade.a(SourceFile:41)
+	at adc.a(SourceFile:22)
+	at ado.a(SourceFile:94)
+	at abz.cL(SourceFile:644)
+	at aby.l(SourceFile:1903)
+	at abz.l(SourceFile:504)
+	at ajv.l(SourceFile:33)
+	at akl.l(SourceFile:257)
+	at aby.S_(SourceFile:1758)
+	at abz.S_(SourceFile:284)
+	at ajv.S_(SourceFile:38)
+	at akl.S_(SourceFile:232)
+	at ajj.S_(SourceFile:252)
+	at auj.a(SourceFile:1617)
+	at sh.a(SourceFile:705)
+	at auj.h(SourceFile:1593)
+	at auj.p_(SourceFile:1475)
+	at sh.p_(SourceFile:538)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:702)
+	at rs.w(SourceFile:354)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:627)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:532)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at ade.a(SourceFile:41)
+	at adc.a(SourceFile:22)
+	at ado.a(SourceFile:94)
+	at abz.cL(SourceFile:644)
+	at aby.l(SourceFile:1903)
+	at abz.l(SourceFile:504)
+	at ajv.l(SourceFile:33)
+	at akl.l(SourceFile:257)
+	at aby.S_(SourceFile:1758)
+	at abz.S_(SourceFile:284)
+	at ajv.S_(SourceFile:38)
+	at akl.S_(SourceFile:232)
+	at ajj.S_(SourceFile:252)
+	at auj.a(SourceFile:1617)
+	at sh.a(SourceFile:705)
+	at auj.h(SourceFile:1593)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:drowned (ajj)
+	Entity ID: 1711
+	Entity Name: Drowned
+	Entity's Exact location: 1370.30, 50.12, 100.30
+	Entity's Block location: World: (1370,50,100), Chunk: (at 10,3,4 in 85,6; contains blocks 1360,0,96 to 1375,255,111), Region: (2,0; contains chunks 64,0 to 95,31, blocks 1024,0,0 to 1535,255,511)
+	Entity's Momentum: -0.04, 0.00, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at auj.p_(SourceFile:1475)
+	at sh.p_(SourceFile:538)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 1 total; [sj['DSAGirl'/1700, l='world', x=1368.13, y=48.50, z=101.60]]
+	Chunk stats: ServerChunkCache: 697 Drop: 0
+	Level seed: 5089177234124820467
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (114,64,-170), Chunk: (at 2,4,6 in 7,-11; contains blocks 112,0,-176 to 127,255,-161), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 53486731 game time, 30741784 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 65064 (now: false), thunder time: 96131 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.w(SourceFile:702)
+	at rs.w(SourceFile:354)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:627)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:532)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 18w14a
+	Operating System: Linux (amd64) version 4.14.12-xxxx-std-ipv6-64
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4806670336 bytes (4583 MB) / 8589934592 bytes (8192 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 17 total; -Xmx8192M -Xms8192M -XX:MetaspaceSize=32m -XX:MaxMetaspaceSize=256m -XX:CompressedClassSpaceSize=64m -XX:+UseCompressedOops -XX:+UseCompressedClassPointers -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AggressiveOpts -XX:MaxGCPauseMillis=100 -XX:TargetSurvivorRatio=90 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 16; [sj['MrK3nt'/179, l='world', x=100.26, y=3.88, z=-214.01], sj['DSAGirl'/1700, l='world', x=1368.13, y=48.50, z=101.60]]
+	Data Packs: vanilla, file/T77 Datapack
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

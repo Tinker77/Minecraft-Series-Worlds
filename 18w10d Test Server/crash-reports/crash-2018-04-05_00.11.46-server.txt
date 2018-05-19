@@ -1,0 +1,95 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 4/5/18 12:11 AM
+Description: Ticking entity
+
+java.lang.ClassCastException: ayg cannot be cast to azz
+	at ade.a(SourceFile:32)
+	at aeg.d(SourceFile:28)
+	at ado.a(SourceFile:113)
+	at abz.cL(SourceFile:644)
+	at aby.l(SourceFile:1903)
+	at abz.l(SourceFile:504)
+	at abm.l(SourceFile:134)
+	at aby.S_(SourceFile:1758)
+	at abz.S_(SourceFile:284)
+	at auj.a(SourceFile:1617)
+	at sh.a(SourceFile:705)
+	at auj.h(SourceFile:1593)
+	at auj.p_(SourceFile:1475)
+	at sh.p_(SourceFile:538)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:702)
+	at rs.w(SourceFile:354)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:627)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:532)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at ade.a(SourceFile:32)
+	at aeg.d(SourceFile:28)
+	at ado.a(SourceFile:113)
+	at abz.cL(SourceFile:644)
+	at aby.l(SourceFile:1903)
+	at abz.l(SourceFile:504)
+	at abm.l(SourceFile:134)
+	at aby.S_(SourceFile:1758)
+	at abz.S_(SourceFile:284)
+	at auj.a(SourceFile:1617)
+	at sh.a(SourceFile:705)
+	at auj.h(SourceFile:1593)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:villager (akq)
+	Entity ID: 191120
+	Entity Name: Villager
+	Entity's Exact location: 1890.59, 65.00, 234.70
+	Entity's Block location: World: (1890,65,234), Chunk: (at 2,4,10 in 118,14; contains blocks 1888,0,224 to 1903,255,239), Region: (3,0; contains chunks 96,0 to 127,31, blocks 1536,0,0 to 2047,255,511)
+	Entity's Momentum: -0.01, -0.08, 0.06
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at auj.p_(SourceFile:1475)
+	at sh.p_(SourceFile:538)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 2 total; [sj['Thomas_Grillo'/4091, l='world', x=-148.59, y=64.00, z=-298.88], sj['DSAGirl'/170857, l='world', x=1890.86, y=65.00, z=234.33]]
+	Chunk stats: ServerChunkCache: 1105 Drop: 0
+	Level seed: 5089177234124820467
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (114,64,-170), Chunk: (at 2,4,6 in 7,-11; contains blocks 112,0,-176 to 127,255,-161), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 53545924 game time, 30844536 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 141893 (now: false), thunder time: 19561 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.w(SourceFile:702)
+	at rs.w(SourceFile:354)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:627)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:532)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 18w14a
+	Operating System: Linux (amd64) version 4.14.12-xxxx-std-ipv6-64
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2142209984 bytes (2042 MB) / 8589934592 bytes (8192 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 17 total; -Xmx8192M -Xms8192M -XX:MetaspaceSize=32m -XX:MaxMetaspaceSize=256m -XX:CompressedClassSpaceSize=64m -XX:+UseCompressedOops -XX:+UseCompressedClassPointers -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AggressiveOpts -XX:MaxGCPauseMillis=100 -XX:TargetSurvivorRatio=90 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 16; [sj['Thomas_Grillo'/4091, l='world', x=-148.59, y=64.00, z=-298.88], sj['DSAGirl'/170857, l='world', x=1890.86, y=65.00, z=234.33]]
+	Data Packs: vanilla, file/T77 Datapack
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

@@ -1,0 +1,103 @@
+---- Minecraft Crash Report ----
+// I'm sorry, Dave.
+
+Time: 3/13/18 8:25 PM
+Description: Ticking entity
+
+java.lang.ClassCastException: afn cannot be cast to afj
+	at adb.a(SourceFile:41)
+	at acz.a(SourceFile:22)
+	at adl.a(SourceFile:94)
+	at abw.cL(SourceFile:644)
+	at abv.l(SourceFile:1895)
+	at abw.l(SourceFile:504)
+	at ajs.l(SourceFile:33)
+	at aki.l(SourceFile:257)
+	at abv.S_(SourceFile:1750)
+	at abw.S_(SourceFile:284)
+	at ajs.S_(SourceFile:38)
+	at aki.S_(SourceFile:232)
+	at ajg.S_(SourceFile:252)
+	at aug.a(SourceFile:1617)
+	at se.a(SourceFile:705)
+	at aug.h(SourceFile:1593)
+	at aug.p_(SourceFile:1475)
+	at se.p_(SourceFile:538)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:702)
+	at rp.w(SourceFile:354)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:627)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:532)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at adb.a(SourceFile:41)
+	at acz.a(SourceFile:22)
+	at adl.a(SourceFile:94)
+	at abw.cL(SourceFile:644)
+	at abv.l(SourceFile:1895)
+	at abw.l(SourceFile:504)
+	at ajs.l(SourceFile:33)
+	at aki.l(SourceFile:257)
+	at abv.S_(SourceFile:1750)
+	at abw.S_(SourceFile:284)
+	at ajs.S_(SourceFile:38)
+	at aki.S_(SourceFile:232)
+	at ajg.S_(SourceFile:252)
+	at aug.a(SourceFile:1617)
+	at se.a(SourceFile:705)
+	at aug.h(SourceFile:1593)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:drowned (ajg)
+	Entity ID: 30850
+	Entity Name: Drowned
+	Entity's Exact location: -416.51, 56.00, -3792.50
+	Entity's Block location: World: (-417,56,-3793), Chunk: (at 15,3,15 in -27,-238; contains blocks -432,0,-3808 to -417,255,-3793), Region: (-1,-8; contains chunks -32,-256 to -1,-225, blocks -512,0,-4096 to -1,255,-3585)
+	Entity's Momentum: 0.00, 0.00, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at aug.p_(SourceFile:1475)
+	at se.p_(SourceFile:538)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 5 total; [sg['DSAGirl'/598, l='world', x=-163.49, y=63.50, z=-334.70], sg['Pipoooo'/3156, l='world', x=515.65, y=8.00, z=-5556.66], sg['RamNificent'/5264, l='world', x=-447.53, y=49.30, z=-3804.05], sg['Thomas_Grillo'/18313, l='world', x=-150.07, y=62.50, z=-319.87], sg['PausePlayer10'/23978, l='world', x=776.37, y=66.02, z=-5878.21]]
+	Chunk stats: ServerChunkCache: 2051 Drop: 0
+	Level seed: 5089177234124820467
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (114,64,-170), Chunk: (at 2,4,6 in 7,-11; contains blocks 112,0,-176 to 127,255,-161), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 15308778 game time, 20119117 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 6145 (now: true), thunder time: 79542 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.w(SourceFile:702)
+	at rp.w(SourceFile:354)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:627)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:532)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 18w11a
+	Operating System: Linux (amd64) version 4.14.12-xxxx-std-ipv6-64
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2735540664 bytes (2608 MB) / 8589934592 bytes (8192 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 17 total; -Xmx8192M -Xms8192M -XX:MetaspaceSize=32m -XX:MaxMetaspaceSize=256m -XX:CompressedClassSpaceSize=64m -XX:+UseCompressedOops -XX:+UseCompressedClassPointers -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AggressiveOpts -XX:MaxGCPauseMillis=100 -XX:TargetSurvivorRatio=90 -XX:G1MixedGCLiveThresholdPercent=50 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10
+	Profiler Position: N/A (disabled)
+	Player Count: 5 / 16; [sg['DSAGirl'/598, l='world', x=-163.49, y=63.50, z=-334.70], sg['Pipoooo'/3156, l='world', x=515.65, y=8.00, z=-5556.66], sg['RamNificent'/5264, l='world', x=-447.53, y=49.30, z=-3804.05], sg['Thomas_Grillo'/18313, l='world', x=-150.07, y=62.50, z=-319.87], sg['PausePlayer10'/23978, l='world', x=776.37, y=66.02, z=-5878.21]]
+	Data Packs: vanilla, file/T77 Datapack
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
