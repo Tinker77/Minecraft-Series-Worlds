@@ -1,0 +1,6 @@
+# This file enables or disables automatic jar/modpack updates.
+#
+# Possible values: true, false
+# Default: true
+#
+autoupdate=true
