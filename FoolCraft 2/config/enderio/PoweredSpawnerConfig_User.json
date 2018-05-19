@@ -1,0 +1,12 @@
+{
+  "costMultiplier": {
+  },
+  "blackList": [
+    "VillagerGolem",
+    "Villager",
+    "chickens.ChickensChicken",
+	"FluidCow",
+	"Bandit",
+	"Gassy"
+  ]
+}

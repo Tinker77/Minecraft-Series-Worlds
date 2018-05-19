@@ -1,0 +1,96 @@
+[
+  {
+    "name": "bio",
+    "type": 0
+  },
+  {
+    "name": "CAPS",
+    "type": 0
+  },
+  {
+    "name": "seed_gold2",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_gold1",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_iron",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_lapis",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_tin",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_redstone",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "2nd",
+    "type": 1
+  },
+  {
+    "name": "seed_nether q",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_copper",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_lead",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_silver",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed_nickel",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "seed process",
+    "uuid": "f4314db6-2e0e-4e86-a0a5-6d255a32618b",
+    "playername": "MrK3nt",
+    "type": 1
+  },
+  {
+    "name": "Main",
+    "type": 1
+  },
+  {
+    "name": "Large Bank",
+    "uuid": "18a10d72-1919-43fa-9f89-fddb362b3731",
+    "playername": "CandyVette",
+    "type": 2
+  }
+]
