@@ -1,0 +1,16 @@
+# This file tells the server which version of Java to use.
+#
+# Possible values: auto, 7, 8
+# Default: auto
+#
+# 'auto' will automatically select the best version for the package you have
+# selected. Vanilla Minecraft, CraftBukkit, Spigot, and some others benefit from
+# performance gains with Java 8. However, some modpacks do not work with Java 8,
+# so they will default to Java 7.
+#
+# Be careful when overriding this version. Using Java 8 with a modpack or package
+# that doesn't support it may result in unexpected crashes.
+#
+java-version=auto
+# java-version=7
+# java-version=8
